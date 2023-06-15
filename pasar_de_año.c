@@ -7,7 +7,7 @@ int main(){
 
     int materias;
 
-    printf("Cuantas materias a reprovado");
+    printf("Cuantas materias a reprovado?\n");
     scanf("%d",&materias);
 
     if (materias > 3){
